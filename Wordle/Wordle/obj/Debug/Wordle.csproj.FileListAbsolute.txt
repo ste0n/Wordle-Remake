@@ -1,0 +1,11 @@
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Wordle\Wordle\bin\Debug\Wordle.exe.config
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Wordle\Wordle\bin\Debug\Wordle.exe
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Wordle\Wordle\bin\Debug\Wordle.pdb
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Wordle\Wordle\obj\Debug\Wordle.csproj.AssemblyReference.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Wordle\Wordle\obj\Debug\Wordle.Form1.resources
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Wordle\Wordle\obj\Debug\Wordle.Properties.Resources.resources
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Wordle\Wordle\obj\Debug\Wordle.csproj.GenerateResource.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Wordle\Wordle\obj\Debug\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Wordle\Wordle\obj\Debug\Wordle.exe
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Wordle\Wordle\obj\Debug\Wordle.pdb
+C:\Users\LeonS\OneDrive\Programieren\C#\Übungen\Wordle\Wordle\obj\Debug\Wordle.csproj.SuggestedBindingRedirects.cache
