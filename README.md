@@ -1,2 +1,2 @@
-# Wordle-Reamake
+# Wordle-Remake
 Wordle in Forms
